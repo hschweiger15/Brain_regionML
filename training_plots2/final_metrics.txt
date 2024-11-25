@@ -1,0 +1,5 @@
+Final Training Loss: 0.2522
+Final Validation Loss: 0.2533
+Final Training Accuracy: 97.62%
+Final Validation Accuracy: 96.63%
+Total Training Time: 97.59 seconds
